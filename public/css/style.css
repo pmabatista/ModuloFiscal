@@ -1,0 +1,39 @@
+#formulario{
+    padding-left: 15%;
+    padding-top: 2%;
+    padding-right: 15%;
+}
+h3{
+    padding-top: 2%;
+    text-align: center;
+}
+
+#videoplay{
+    padding-top: 6%;
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-bottom: 5.5%;
+}
+
+#buttons{
+    padding-top: 4%;
+}
+#select{
+    padding-top: 1.4%;
+    padding-right: 13%;
+    padding-left: 5%;
+}
+
+#conteudo_denuncia{
+    padding-bottom: 2%;
+}
+
+.btn-group{
+    padding-top: 0.5%;
+    padding-left: 30%;
+}
+
+#selecionar{
+    padding-top: 1.4%;
+    padding-bottom: 2%;
+}
